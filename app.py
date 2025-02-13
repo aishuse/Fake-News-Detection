@@ -32,7 +32,7 @@ def main():
             color: #333;
         }
     </style>
-    <div class="header">Streamlit Loan Prediction ML App</div>
+    <div class="header">FAKE NEWS DETECTION</div>
     <div class="main-container">
     """
     # Load the saved model and TF-IDF vectorizer
